@@ -1,18 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><application-layout>
     <component name="InputStream">
-        <param name="gui:x" value="-121"/>
-        <param name="gui:y" value="-32"/>
+        <param name="gui:x" value="-161"/>
+        <param name="gui:y" value="16"/>
     </component>
     <component name="Map">
-        <param name="gui:x" value="-28"/>
-        <param name="gui:y" value="-32"/>
+        <param name="gui:x" value="-68"/>
+        <param name="gui:y" value="16"/>
     </component>
     <component name="Map2">
-        <param name="gui:x" value="22"/>
-        <param name="gui:y" value="68"/>
+        <param name="gui:x" value="12"/>
+        <param name="gui:y" value="16"/>
+    </component>
+    <component name="Map3">
+        <param name="gui:x" value="118"/>
+        <param name="gui:y" value="16"/>
     </component>
     <component name="OutputStream">
-        <param name="gui:x" value="61"/>
-        <param name="gui:y" value="-32"/>
+        <param name="gui:x" value="224"/>
+        <param name="gui:y" value="16"/>
     </component>
 </application-layout>

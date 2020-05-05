@@ -25,6 +25,13 @@
         </box>
         <box name="Map2" type="map">
             <input port="1" stream="out:Map_1"/>
+            <output port="1" stream="out:Map2_1"/>
+            <target-list>
+                <item name="input" selection="all"/>
+            </target-list>
+        </box>
+        <box name="Map3" type="map">
+            <input port="1" stream="out:Map2_1"/>
             <output port="1" stream="OutputStream"/>
             <target-list>
                 <item name="input" selection="all"/>
